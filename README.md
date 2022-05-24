@@ -1,1 +1,3 @@
-# CPE232-activity3.2
+Activity 3.2
+Choongqihan A. Choong
+
